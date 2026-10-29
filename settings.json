@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "SurvivalSMP-lSJD.aternos.me:19160",
+    "port": 19160,
     "version": "",
     "try-creative": false
   },
